@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">UTS Android</string>
+    <string name="aplikasi_kuis">APLIKASI KUIS</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
 
     <string name="slide_1_title">Hello Friends!</string>
     <string name="slide_1_desc">Cara Mudah Untuk Melupakan Masalah Hidup Dengan Bermain Kuis!</string>
@@ -9,4 +15,7 @@
 
     <string name="slide_3_title">Maematika</string>
     <string name="slide_3_desc">Kuis Ini Terdapat Soal Matematika Yang Mudah Dimengerti!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
