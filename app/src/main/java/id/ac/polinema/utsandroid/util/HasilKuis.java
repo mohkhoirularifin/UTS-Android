@@ -17,10 +17,10 @@ public class HasilKuis extends Activity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.hasil_kuis);
 
-        TextView hasil = (TextView)findViewById(R.id.hasil);
-        TextView nilai = (TextView)findViewById(R.id.nilai);
+        TextView hasil = findViewById(R.id.hasil);
+        TextView nilai = findViewById(R.id.nilai);
 
-        hasil.setText("Jawaban Benar :"+ QuizFragment.benar+"\nJawaban Salah :"+QuizFragment.salah);
+        hasil.setText("Zimzalabim, Jawaban Benar :"+ QuizFragment.benar+"\nJawaban Salah :"+QuizFragment.salah);
         nilai.setText(""+QuizFragment.hasil);
     }
 

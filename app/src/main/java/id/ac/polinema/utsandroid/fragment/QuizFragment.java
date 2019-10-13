@@ -103,7 +103,7 @@ public class QuizFragment extends Fragment {
                         PilihanD.setText(pilihan_jawaban[(nomor * 4) + 3]);
                     } else {
                         hasil = benar * 20;
-                        Intent selesai = new Intent(getActivity().getApplicationContext(), HasilKuis.class);
+                        Intent selesai = new Intent(QuizFragment.this.getActivity(), HasilKuis.class);
                         startActivity(selesai);
                     }
                 }
@@ -112,6 +112,7 @@ public class QuizFragment extends Fragment {
                 }
             }
 
-        });return view;
+        });
+        return view;
     }
 }
