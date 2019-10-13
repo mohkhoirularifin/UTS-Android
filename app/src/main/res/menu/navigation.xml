@@ -6,6 +6,6 @@
         android:title="Pengetahuan"
         android:icon="@drawable/ic_p" />
     <item android:id="@+id/action_matematika"
-        android:title="Matematika"
+        android:title="Me"
         android:icon="@drawable/ic_m" />
 </menu>

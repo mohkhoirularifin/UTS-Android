@@ -13,8 +13,8 @@
     <string name="slide_2_title">Pengetahuan</string>
     <string name="slide_2_desc">Pengetahuan Sangat Dibutuhkan Dalam Menjalankan Kuis!</string>
 
-    <string name="slide_3_title">Maematika</string>
-    <string name="slide_3_desc">Kuis Ini Terdapat Soal Matematika Yang Mudah Dimengerti!</string>
+    <string name="slide_3_title">Me</string>
+    <string name="slide_3_desc">Berisi tentang data diri Owner dan Social Media Owner!</string>
 
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
